@@ -40,11 +40,11 @@ Dal calcio e film Rai e Mediaset, fino ai canali tematici come RSI, La7, Sky TG2
 
 ---
 
-## 🎥 Video Guida
+## 🎥 Demo
 
 Guarda KriTere TV in azione 👇
 
-![Kritere TV Demo](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/1000008696(3).gif)
+![Kritere TV Demo](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/demo.gif)
 
 ---
 
