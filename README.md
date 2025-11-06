@@ -11,7 +11,7 @@
 
 ## ✨ Introduzione
 
-**Kritere TV** è l’app Android definitiva per guardare **tutti i canali TV italiani in diretta**, in qualsiasi parte del mondo.  
+**KriTere TV** è l’app Android definitiva per guardare **tutti i canali TV italiani in diretta**, in qualsiasi parte del mondo.  
 Dal calcio e film Rai e Mediaset, fino ai canali tematici come RSI, La7, Sky TG24, Radio Italia TV e molti altri — **tutto in un’unica app elegante e veloce**.
 
 > 💬 “La TV italiana come non l’hai mai vista — potente, fluida e senza limiti geografici.”
@@ -42,9 +42,9 @@ Dal calcio e film Rai e Mediaset, fino ai canali tematici come RSI, La7, Sky TG2
 
 ## 🎥 Video Guida
 
-Kritere TV in azione 👇
+Guarda KriTere TV in azione 👇
 
-![Kritere TV Demo](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/d656cbcb58366a3e.gif)
+![Kritere TV Demo](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/1000008696 (3).gif)
 
 ---
 
@@ -100,7 +100,7 @@ L’app è destinata esclusivamente a scopi informativi e dimostrativi.
 
 ## ❤️ Crediti
 
-Realizzato con passione da **KritereTV**  
+Realizzato con passione da **KriTereTV**  
 > “La TV italiana, come dovrebbe essere: semplice, elegante e sempre con te.”
 
 ![Made with Love](https://img.shields.io/badge/Made%20with%20❤️%20by-KritereTV-red?style=for-the-badge)
