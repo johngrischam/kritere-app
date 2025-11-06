@@ -3,8 +3,8 @@
 ![Kritere TV Banner](https://raw.githubusercontent.com/johngrischam/kritere-app-paid/main/assets/banner.jpg)
 
 [![Download APK](https://img.shields.io/badge/📱_Scarica_APK-blue?style=for-the-badge)](../../releases)
-[![GitHub stars](https://img.shields.io/github/stars/johngrischam/kritere-app-paid?style=for-the-badge)](https://github.com/johngrischam/kritere-app-paid/stargazers)
-[![GitHub release](https://img.shields.io/github/v/release/johngrischam/kritere-app-paid?style=for-the-badge&color=green)](../../releases)
+[![GitHub stars](https://img.shields.io/github/stars/johngrischam/kritere-app?style=for-the-badge)](https://github.com/johngrischam/kritere-app-paid/stargazers)
+[![GitHub release](https://img.shields.io/github/v/release/johngrischam/kritere-app?style=for-the-badge&color=green)](../../releases)
 [![Android TV](https://img.shields.io/badge/Smart_TV_&_TV_Box-✅-brightgreen?style=for-the-badge)](#)
 
 ---
@@ -40,7 +40,7 @@ Dalla Serie A ai film Rai e Mediaset, fino ai canali tematici come RSI, La7, Sky
 
 ---
 
-## 🎥 Demo
+## 🎥 Video Guida
 
 Guarda Kritere TV in azione 👇
 
