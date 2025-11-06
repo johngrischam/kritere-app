@@ -84,7 +84,7 @@ Guarda Kritere TV in azione 👇
 
 📩 Telegram: [https://t.me/kritere](https://t.me/kritere)  
 🌐 Sito ufficiale: [https://kritere.com](https://kritere.com)  
-📧 Email: info@kritere.com *(opzionale se vuoi aggiungerla)*  
+📧 Email: info@kritere.com   
 
 ---
 
