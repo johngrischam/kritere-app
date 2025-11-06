@@ -54,7 +54,9 @@ Kritere TV in azione 👇
 2. Installa l’APK sul tuo dispositivo Android o Smart TV
 3. Apri Kritere TV e inizia subito a guardare i tuoi canali preferiti!
 
-> 💡 *Suggerimento:* se installi su Smart TV, abilita “Origini sconosciute” per procedere all’installazione manuale.
+> 💡 *Suggerimento:* se installi su smarphone o Smart TV, abilita “Origini sconosciute” per procedere all’installazione manuale.
+>
+> ![Kritere TV Demo](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/d656cbcb58366a3e.gif)
 
 ---
 
