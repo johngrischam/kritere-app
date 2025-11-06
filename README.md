@@ -56,7 +56,7 @@ Guarda KriTere TV in azione 👇
 
 > 💡 *Suggerimento:* se installi su smarphone o Smart TV, abilita “Origini sconosciute” per procedere all’installazione manuale.
 >
-> ![Kritere TV Demo](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/d656cbcb58366a3e.gif)
+> ![Kritere TV Guida](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/d656cbcb58366a3e.gif)
 
 ---
 
