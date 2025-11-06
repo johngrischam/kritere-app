@@ -44,7 +44,7 @@ Dalla Serie A ai film Rai e Mediaset, fino ai canali tematici come RSI, La7, Sky
 
 Guarda Kritere TV in azione 👇
 
-![Kritere TV Demo](https://raw.githubusercontent.com/johngrischam/kritere-app-paid/main/assets/demo.gif)
+![Kritere TV Demo](https://raw.githubusercontent.com/johngrischam/kritere-app-paid/main/assets/d656cbcb58366a3e.gif)
 
 ---
 
