@@ -1,4 +1,4 @@
-# 🇮🇹 Kritere TV — La Migliore App Android per Guardare la TV Italiana
+# 🇮🇹 KriTere TV — La Migliore App Android per Guardare la TV Italiana
 
 ![Kritere TV Banner](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/live-tv-shortcut.png)
 
