@@ -42,7 +42,7 @@ Dal calcio e film Rai e Mediaset, fino ai canali tematici come RSI, La7, Sky TG2
 
 ## 🎥 Demo
 
-Guarda KriTere TV in azione 👇
+Guarda Kritere TV in azione 👇
 
 ![Kritere TV Demo](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/demo.gif)
 
@@ -54,9 +54,9 @@ Guarda KriTere TV in azione 👇
 2. Installa l’APK sul tuo dispositivo Android o Smart TV
 3. Apri Kritere TV e inizia subito a guardare i tuoi canali preferiti!
 
-> 💡 *Suggerimento:* se installi su smarphone o Smart TV, abilita “Origini sconosciute” per procedere all’installazione manuale.
->
-> ![Kritere TV Guida](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/d656cbcb58366a3e.gif)
+> 💡 *Suggerimento:* se installi su smartphone o Smart TV, abilita “Origini sconosciute” per procedere all’installazione manuale.
+
+![Kritere TV Guida](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/d656cbcb58366a3e.gif)
 
 ---
 
