@@ -44,7 +44,19 @@ Dal calcio e film Rai e Mediaset, fino ai canali tematici come RSI, La7, Sky TG2
 
 Guarda Kritere TV in azione 👇
 
-![Kritere TV Demo](https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/demo.gif)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/DemoMobile.gif" width="300"/><br>
+      <b>Demo 1 — Interfaccia Cellulare</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/DemoTV.gif" width="300"/><br>
+      <b>Demo 2 — Navigazione TV</b>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
