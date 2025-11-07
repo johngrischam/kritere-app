@@ -47,7 +47,7 @@ Guarda Kritere TV in azione 👇
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/DemoMobile.gif" width="300"/><br>
+      <img src="https://raw.githubusercontent.com/johngrischam/kritere-app/main/assets/DemoMobile.gif" width="150"/><br>
       <b>Demo 1 — Interfaccia Cellulare</b>
     </td>
     <td align="center">
